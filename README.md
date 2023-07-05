@@ -4,6 +4,12 @@
 
 It’s time to take our app development skills to the next level. We’re going to introduce you to the wonderful world of Application Programming Interfaces (APIs) to grab live data from the internet. If you’re dreaming of making that Twitter-powered stock trading app then you’re about add some serious tools to your toolbelt!
 
+##  Screenshots
+<p align="center">
+<img src="https://user-images.githubusercontent.com/109294768/251156589-ba384fbe-73e2-4018-b17e-275d68f0e6cb.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/109294768/251156632-3a02732f-3a7a-4391-bc1d-94ee836d7372.png" width="200" height="400" />
+</p>
+
 ## What you will create
 
 By the end of the module, you will have made a beautiful, dark-mode enabled weather app. You'll be able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually. 
